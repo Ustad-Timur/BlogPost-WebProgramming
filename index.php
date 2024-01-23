@@ -52,5 +52,13 @@ if(isset($_POST['user-name'])) {
 				</div>
 			</form>
 		</div>
+			<div class="footer">
+			<footer>
+				<?php
+ 			$year = date("Y");
+ 			echo "<p> Copyright © $year All rights reserved Taimoor Ali Khaskheli </p>";
+ 			?>
+    		</footer>
+			</div>
 	</body>
 </html>

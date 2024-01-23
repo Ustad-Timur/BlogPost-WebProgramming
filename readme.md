@@ -1,4 +1,4 @@
-# Blog Post
+# Blog Post Web Programming Assignment
 
 ## Submission Details
 

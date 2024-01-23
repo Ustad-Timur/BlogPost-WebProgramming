@@ -211,3 +211,17 @@ button:disabled {
     background-color: rgb(228, 238, 238);
     border-radius: 5px;
 }
+.footer {
+    background-color: #333;
+    color: #f0f0f0;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+    color: #d11414;
+}
